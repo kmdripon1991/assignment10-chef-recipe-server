@@ -1,0 +1,345 @@
+[
+  {
+    "_id": "01",
+    "name": "Chef Alice",
+    "picture_url": "https://i.ibb.co/b3ZZNmy/c1.jpg",
+    "bio": "Chef Alice is passionate about Italian cuisine and has been cooking since childhood. She loves to experiment with traditional recipes to create new flavors.",
+    "likes": 1500,
+    "recipes_count": 3,
+    "years_experience": 10,
+    "ratings": { "number": 4.5, "badge": "Excellent" },
+    "recipes": [
+      {
+        "_id": "recipe001",
+        "title": "Classic Lasagna",
+        "recipes_url": "https://i.ibb.co/FzdpZNV/i1.jpg",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "parmesan cheese"
+        ],
+        "rating": 4.8,
+        "directions": "Preheat oven to 375°F (190°C). Layer cooked lasagna noodles with marinara sauce, ricotta cheese, mozzarella, and cooked ground beef. Repeat layers, ending with mozzarella. Cover with foil and bake for 25 minutes. Remove foil, bake an additional 25 minutes. Let stand 10 minutes before serving."
+      },
+      {
+        "_id": "recipe002",
+        "title": "Chicken Alfredo",
+        "recipes_url": "https://i.ibb.co/cvf5XvY/i2.jpg",
+        "ingredients": [
+          "fettuccine pasta",
+          "chicken breast",
+          "heavy cream",
+          "butter",
+          "garlic",
+          "parmesan cheese"
+        ],
+        "rating": 4.4,
+        "directions": "Cook pasta. Sauté sliced chicken in butter until done. Add minced garlic and cook briefly. Stir in heavy cream and simmer until thickened. Mix in grated Parmesan, salt, and pepper. Combine with pasta and serve hot."
+      },
+      {
+        "_id": "recipe003",
+        "title": "Chocolate Brownies",
+        "recipes_url": "https://i.ibb.co/wYC8xtT/i3.jpg",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "eggs",
+          "flour",
+          "cocoa powder",
+          "vanilla extract"
+        ],
+        "rating": 4.5,
+        "directions": "Preheat oven to 350°F (175°C). Melt 1 cup butter and 2 cups sugar. Stir in 4 eggs and 1 teaspoon vanilla. Mix in 1/2 cup cocoa powder, 1 cup flour, 1/2 teaspoon baking powder, and 1/4 teaspoon salt. Pour into a greased pan. Bake for 25-30 minutes. Cool before cutting."
+      }
+    ]
+  },
+  {
+    "_id": "02",
+    "name": "Chef Bob",
+    "picture_url": "https://i.ibb.co/ZKGTgf5/c2.jpg",
+    "bio": "Chef Bob specializes in comfort food with a twist. He enjoys creating hearty meals that bring people together.",
+    "likes": 1200,
+    "recipes_count": 3,
+    "years_experience": 8,
+    "ratings": { "number": 4.0, "badge": "Good" },
+    "recipes": [
+      {
+        "_id": "recipe004",
+        "title": "Margherita Pizza",
+        "recipes_url": "https://i.ibb.co/8BZ1KVQ/i4.jpg",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil leaves",
+          "olive oil",
+          "salt"
+        ],
+        "rating": 4.6,
+        "directions": "Preheat oven to 475°F (245°C). Roll out pizza dough. Spread a thin layer of tomato sauce. Add fresh mozzarella slices and basil leaves. Drizzle with olive oil and season with salt. Bake on a pizza stone or baking sheet for 10-12 minutes until the crust is golden and cheese is bubbly."
+      },
+      {
+        "_id": "recipe005",
+        "title": "Beef Tacos",
+        "recipes_url": "https://i.ibb.co/8rCDSnZ/i5.jpg",
+        "ingredients": [
+          "ground beef",
+          "taco seasoning",
+          "tortillas",
+          "lettuce",
+          "tomato",
+          "cheese"
+        ],
+        "rating": 4.5,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe006",
+        "title": "Vanilla Cupcakes",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "butter",
+          "eggs",
+          "milk",
+          "vanilla extract"
+        ],
+        "rating": 4.3,
+        "directions": "Preheat oven to 350°F (175°C). Mix 1 1/2 cups flour, 1 1/2 tsp baking powder, and 1/4 tsp salt. Beat 1/2 cup butter and 1 cup sugar until fluffy. Add 2 eggs and 2 tsp vanilla. Alternate adding dry ingredients and 1/2 cup milk. Fill cupcake liners 2/3 full. Bake 18-20 minutes. Cool before frosting."
+      }
+    ]
+  },
+  {
+    "_id": "03",
+    "name": "Chef Chris",
+    "picture_url": "https://i.ibb.co/ZXGTn5Q/c3.jpg",
+    "bio": "Chef Chris brings international flavors to the table. With a background in fusion cuisine, he creates dishes that blend different culinary traditions.",
+    "likes": 1800,
+    "recipes_count": 3,
+    "years_experience": 12,
+    "ratings": { "number": 5, "badge": "Excellent" },
+    "recipes": [
+      {
+        "_id": "recipe007",
+        "title": "Beef Stir Fry",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "beef strips",
+          "bell peppers",
+          "onion",
+          "soy sauce",
+          "ginger",
+          "garlic",
+          "sesame oil"
+        ],
+        "rating": 4.6,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe008",
+        "title": "Caesar Salad",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "romaine lettuce",
+          "croutons",
+          "parmesan cheese",
+          "caesar dressing"
+        ],
+        "rating": 4.8,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe009",
+        "title": "Chicken Parmesan",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "chicken breast",
+          "breadcrumbs",
+          "eggs",
+          "marinara sauce",
+          "mozzarella cheese",
+          "parmesan cheese"
+        ],
+        "rating": 5.0,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      }
+    ]
+  },
+  {
+    "_id": "04",
+    "name": "Chef David",
+    "picture_url": "https://i.ibb.co/WPz0grd/c4.jpg",
+    "bio": "Chef David is a classically trained chef with a passion for seasonal ingredients. He believes in letting the quality of the ingredients shine in his dishes.",
+    "likes": 2000,
+    "recipes_count": 3,
+    "years_experience": 15,
+    "ratings": { "number": 4.8, "badge": "Excellent" },
+    "recipes": [
+      {
+        "_id": "recipe010",
+        "title": "Pasta Carbonara",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "rating": 5.0,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe011",
+        "title": "Grilled Salmon",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "salmon fillet",
+          "lemon",
+          "olive oil",
+          "garlic",
+          "salt",
+          "black pepper"
+        ],
+        "rating": 4.8,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe012",
+        "title": "Apple Pie",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "apples",
+          "sugar",
+          "cinnamon",
+          "flour",
+          "butter",
+          "pie crust"
+        ],
+        "rating": 4.9,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      }
+    ]
+  },
+  {
+    "_id": "05",
+    "name": "Chef Emily",
+    "picture_url": "https://i.ibb.co/qMCmrxm/c5.jpg",
+    "bio": "Chef Emily is known for her innovative approach to vegetarian cuisine. She loves to showcase the versatility of plant-based ingredients.",
+    "likes": 2200,
+    "recipes_count": 3,
+    "years_experience": 9,
+    "ratings": { "number": 4.3, "badge": "Good" },
+    "recipes": [
+      {
+        "_id": "recipe013",
+        "title": "Vegetable Stir Fry",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "mixed vegetables",
+          "tofu",
+          "soy sauce",
+          "sesame oil",
+          "ginger",
+          "garlic"
+        ],
+        "rating": 4.8,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe014",
+        "title": "Caprese Salad",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "tomatoes",
+          "fresh mozzarella cheese",
+          "basil leaves",
+          "balsamic glaze",
+          "salt",
+          "black pepper"
+        ],
+        "rating": 4.2,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe015",
+        "title": "Chocolate Chip Cookies",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "brown sugar",
+          "eggs",
+          "flour",
+          "chocolate chips",
+          "vanilla extract"
+        ],
+        "rating": 4.3,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      }
+    ]
+  },
+  {
+    "_id": "06",
+    "name": "Chef Frank",
+    "picture_url": "https://i.ibb.co/znxB5fV/c6.jpg",
+    "bio": "Chef Frank is a grill master with a passion for outdoor cooking. He believes in using fresh, seasonal ingredients to create bold and flavorful dishes.",
+    "likes": 1800,
+    "recipes_count": 3,
+    "years_experience": 12,
+    "ratings": { "number": 5, "badge": "Excellent" },
+    "recipes": [
+      {
+        "_id": "recipe016",
+        "title": "Chicken Noodle Soup",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "chicken broth",
+          "chicken breast",
+          "carrots",
+          "celery",
+          "onion",
+          "noodles"
+        ],
+        "rating": 4.5,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe017",
+        "title": "Shrimp Scampi",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "shrimp",
+          "linguine pasta",
+          "garlic",
+          "butter",
+          "white wine",
+          "lemon",
+          "parsley"
+        ],
+        "rating": 4.6,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      },
+      {
+        "_id": "recipe018",
+        "title": "Blueberry Muffins",
+        "recipes_url": "https://i.ibb.co/hC1kGSG/i6.jpg",
+        "ingredients": [
+          "flour",
+          "sugar",
+          "butter",
+          "eggs",
+          "milk",
+          "blueberries",
+          "baking powder"
+        ],
+        "rating": 4.8,
+        "directions": "Cook ground beef with taco seasoning until browned. Warm taco shells. Fill with beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream. Serve immediately."
+      }
+    ]
+  }
+]
